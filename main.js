@@ -1,4 +1,13 @@
 let arr = [
+  {
+    title: 'Движение ЗА ПРАВДУ',
+    href: 'https://vk.com/zapravduorg',
+    diagram1: './img/political_view/zapravduorg-political_view.svg',
+    navalny: './img/group_joining/navalny/zapravduorg-group_joining.svg',
+    er: '/img/group_joining/er/zapravduorg-group_joining.svg',
+    ldpr: '/img/group_joining/ldpr/zapravduorg-group_joining.svg',
+    kprf: '/img/group_joining/kprf/zapravduorg-group_joining.svg'
+    },
     {
     title: 'ЗА ПРАВДУ (неофициальное сообщество)',
     href: 'https://vk.com/zapravdu_neoficial',
