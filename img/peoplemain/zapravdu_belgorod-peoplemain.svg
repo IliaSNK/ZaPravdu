@@ -7,7 +7,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2020-12-01T00:29:43.015065</dc:date>
+    <dc:date>2020-12-01T09:36:03.423655</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -73,7 +73,7 @@ C 277.40758 156.769437 275.759094 163.991932 272.584951 170.583113
 C 269.410807 177.174293 264.791849 182.966285 259.072238 187.527523 
 L 289.435038 225.601258 
 z
-" style="fill:#4c3200;opacity:0.5;stroke:#4c3200;stroke-linejoin:miter;"/>
+" style="fill:#00004c;opacity:0.5;stroke:#00004c;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_5">
     <path d="M 328.053644 139.054132 
@@ -118,7 +118,7 @@ C 279.355506 154.821512 277.70702 162.044007 274.532876 168.635187
 C 271.358733 175.226367 266.739775 181.018359 261.020164 185.579598 
 L 291.382963 223.653332 
 z
-" style="fill:#ffa500;"/>
+" style="fill:#0000ff;"/>
    </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2"/>

@@ -7,7 +7,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2020-12-01T00:30:20.538793</dc:date>
+    <dc:date>2020-12-01T09:36:58.146139</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -69,7 +69,7 @@ C 221.450417 198.33986 214.924873 197.873145 208.719187 196.050992
 C 202.513501 194.228839 196.771538 191.093491 191.883597 186.858067 
 L 162.336206 220.957582 
 z
-" style="fill:#4c3200;opacity:0.5;stroke:#4c3200;stroke-linejoin:miter;"/>
+" style="fill:#4c0000;opacity:0.5;stroke:#4c0000;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_5">
     <path d="M 304.720152 195.156284 
@@ -80,7 +80,7 @@ C 273.925344 150.671442 273.309877 154.952117 272.097663 159.080538
 C 270.88545 163.20896 269.088908 167.14284 266.762687 170.762512 
 L 304.720152 195.156284 
 z
-" style="fill:#4c004c;opacity:0.5;stroke:#4c004c;stroke-linejoin:miter;"/>
+" style="fill:#00004c;opacity:0.5;stroke:#00004c;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_6">
     <path d="M 319.783272 137.142819 
@@ -121,7 +121,7 @@ C 223.255222 196.535055 216.729678 196.06834 210.523992 194.246187
 C 204.318306 192.424034 198.576343 189.288686 193.688402 185.053262 
 L 164.141011 219.152778 
 z
-" style="fill:#ffa500;"/>
+" style="fill:#ff0000;"/>
    </g>
    <g id="patch_9">
     <path d="M 306.524957 193.351479 
@@ -132,7 +132,7 @@ C 275.730149 148.866638 275.114681 153.147312 273.902468 157.275734
 C 272.690255 161.404155 270.893713 165.338035 268.567492 168.957707 
 L 306.524957 193.351479 
 z
-" style="fill:#ff00ff;"/>
+" style="fill:#0000ff;"/>
    </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2"/>

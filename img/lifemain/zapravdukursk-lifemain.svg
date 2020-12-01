@@ -7,7 +7,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2020-12-01T00:21:29.472144</dc:date>
+    <dc:date>2020-12-01T09:40:56.230400</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -58,7 +58,7 @@ C 166.653582 150.725892 166.653581 143.43938 168.372115 136.467015
 C 170.090648 129.494649 173.476858 123.042763 178.238764 117.667683 
 L 145.036146 88.252733 
 z
-" style="fill:#002600;opacity:0.5;stroke:#002600;stroke-linejoin:miter;"/>
+" style="fill:#4c0000;opacity:0.5;stroke:#4c0000;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_4">
     <path d="M 191.74188 236.205986 
@@ -69,7 +69,7 @@ C 257.442883 183.463379 249.062272 190.887955 238.930816 194.73031
 C 228.799361 198.572666 217.602979 198.572667 207.471522 194.730314 
 L 191.74188 236.205986 
 z
-" style="fill:#4c3200;opacity:0.5;stroke:#4c3200;stroke-linejoin:miter;"/>
+" style="fill:#00004c;opacity:0.5;stroke:#00004c;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_5">
     <path d="M 307.223626 188.311221 
@@ -80,7 +80,7 @@ C 273.027323 150.660185 272.59452 154.224643 271.738355 157.698246
 C 270.882189 161.171848 269.608932 164.529153 267.946357 167.696926 
 L 307.223626 188.311221 
 z
-" style="fill:#4c004c;opacity:0.5;stroke:#4c004c;stroke-linejoin:miter;"/>
+" style="fill:#4c3a3d;opacity:0.5;stroke:#4c3a3d;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_6">
     <path d="M 313.691964 134.890044 
@@ -110,7 +110,7 @@ C 168.427911 148.951562 168.427911 141.66505 170.146444 134.692685
 C 171.864977 127.72032 175.251188 121.268434 180.013093 115.893353 
 L 146.810476 86.478404 
 z
-" style="fill:#008000;"/>
+" style="fill:#ff0000;"/>
    </g>
    <g id="patch_8">
     <path d="M 193.516209 234.431657 
@@ -121,7 +121,7 @@ C 259.217213 181.68905 250.836602 189.113625 240.705146 192.955981
 C 230.57369 196.798337 219.377308 196.798338 209.245852 192.955985 
 L 193.516209 234.431657 
 z
-" style="fill:#ffa500;"/>
+" style="fill:#0000ff;"/>
    </g>
    <g id="patch_9">
     <path d="M 308.997956 186.536891 
@@ -132,7 +132,7 @@ C 274.801653 148.885855 274.36885 152.450313 273.512684 155.923916
 C 272.656518 159.397519 271.383261 162.754824 269.720686 165.922596 
 L 308.997956 186.536891 
 z
-" style="fill:#ff00ff;"/>
+" style="fill:#ffc0cb;"/>
    </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2"/>
