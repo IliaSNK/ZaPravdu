@@ -326,7 +326,9 @@ db.forEach(el => {
       'ages' : `/img/ages/${a}-ages.svg`,
       'lifemain' : `/img/lifemain/${a}-lifemain.svg`,
       'peoplemain' : `/img/peoplemain/${a}-peoplemain.svg`,
-      'education' : `/img/education/${a}-high_education.svg`
+      'education' : `/img/education/${a}-high_education.svg`,
+      'top10sub' : `img/top-10_subscr/${a}-top10.svg`,
+      'top10rep' : `img/top-10_reposts/${a}-top10.svg`
   })
 })
 let root = document.getElementById('root')
@@ -346,6 +348,51 @@ let renderEducation = () => {
           <div class="diagrams-img">
               <div>
                   <img src="${el.education}" alt="" style="width: 600px">
+              </div>
+             
+          </div>
+      </div>
+      `
+  })
+}
+
+let renderRep = () => {
+  root.innerHTML =
+    `
+  <strong>Топ 10 групп, из которых подписчики группы делают репосты</strong>
+  <img src="img/logo.svg" alt="" class="logo" onclick="renderMain()">
+  `
+  arr.forEach(el => {
+    root.innerHTML +=
+
+      `
+      <div class="group">
+          <a href="${el.href}" target="_blank">${el.title}</a>
+          <div class="diagrams-img">
+              <div>
+                  <img src="${el.top10rep}" alt="" style="width: 600px">
+              </div>
+             
+          </div>
+      </div>
+      `
+  })
+}
+let renderSub = () => {
+  root.innerHTML =
+    `
+  <strong>Топ 10 групп, на которые подписаны члены сообщества</strong>
+  <img src="img/logo.svg" alt="" class="logo" onclick="renderMain()">
+  `
+  arr.forEach(el => {
+    root.innerHTML +=
+
+      `
+      <div class="group">
+          <a href="${el.href}" target="_blank">${el.title}</a>
+          <div class="diagrams-img">
+              <div>
+                  <img src="${el.top10sub}" alt="" style="width: 600px">
               </div>
              
           </div>
@@ -530,6 +577,14 @@ let renderMain = () => {
             </div>    
             <div>
                 <img src="img/education.png" alt="" class="img-link" onclick="renderEducation()">
+            </div>
+        </div>
+        <div class="diagrams">
+            <div>
+                <img src="img/rep.png" alt="" class="img-link" onclick="renderRep()">
+            </div>    
+            <div>
+                <img src="img/sub.png" alt="" class="img-link" onclick="renderSub()">
             </div>
         </div>
     </div>
